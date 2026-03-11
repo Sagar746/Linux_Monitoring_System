@@ -44,6 +44,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Sagar746/Linux_Monitoring_System
 cd system-monitor
+```
 
 ## Install Required Dependencies
 ```bash
