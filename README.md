@@ -49,7 +49,7 @@ git clone https://github.com/Sagar746/Linux_Monitoring_System
 cd system-monitor
 
 ## Install Required Dependencies
-```Python
+```python
 pip install flask psutil pyttsx3 tqdm pyfiglet
 ```
 
