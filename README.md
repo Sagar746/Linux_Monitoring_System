@@ -34,8 +34,8 @@ system-monitor <br>
  -app.py <br>
  -system_monitor.log<br>
  -templates/<br>
-    -index.html<br>
- - README.md
+    - index.html<br>
+- README.md
 
 ## Installation
 
