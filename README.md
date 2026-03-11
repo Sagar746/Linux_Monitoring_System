@@ -31,11 +31,11 @@ A real-time **system monitoring dashboard** built with Python and Flask that tra
 
 ## Project Structure
 system-monitor
-│
-├── app.py
-├── system_monitor.log
-├── templates/
-│ └── index.html
+|
+app.py
+| system_monitor.log
+| templates/
+│ |index.html
 └── README.md
 
 ---
@@ -49,7 +49,7 @@ git clone https://github.com/Sagar746/Linux_Monitoring_System
 cd system-monitor
 
 ## Install Required Dependencies
-```python
+```bash
 pip install flask psutil pyttsx3 tqdm pyfiglet
 ```
 
