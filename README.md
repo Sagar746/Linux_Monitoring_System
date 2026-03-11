@@ -30,7 +30,7 @@ A real-time **system monitoring dashboard** built with Python and Flask that tra
 ---
 
 ## Project Structure
-system-monitor/
+system-monitor
 │
 ├── app.py
 ├── system_monitor.log
@@ -45,7 +45,7 @@ system-monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/system-monitor.git
+git clone https://github.com/Sagar746/Linux_Monitoring_System
 cd system-monitor
 
 ## Install Required Dependencies
