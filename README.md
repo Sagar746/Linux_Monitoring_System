@@ -31,12 +31,11 @@ A real-time **system monitoring dashboard** built with Python and Flask that tra
 
 ## Project Structure
 system-monitor
-|
-app.py
-| system_monitor.log
-| templates/
-│ |index.html
-└── README.md
+ -app.py
+ -system_monitor.log
+ -templates/
+    -index.html
+ - README.md
 
 ---
 
